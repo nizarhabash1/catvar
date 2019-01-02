@@ -14,13 +14,14 @@ The Release2.1 directory contains the following files:
 
 ## Citation
 
-If you use this resource, please cite it as:
+If you use this resource, please cite it as ([PDF](http://aclweb.org/anthology/N03-1013)):
 
 ```
 Habash, Nizar and Bonnie Dorr. A Categorial Variation Database for English. 
 In Proceedings of the North American Association for Computational Linguistics (NAACL'03), 
 Edmonton, Canada, 2003, pp. 17--23.
 ```
+
 
 ```
 @inproceedings{Habash:2003a,
